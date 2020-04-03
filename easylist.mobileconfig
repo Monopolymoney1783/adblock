@@ -30,7 +30,7 @@
 	<key>PayloadDisplayName</key>
 	<string>EasyList AdBlock</string>
 	<key>PayloadIdentifier</key>
-	<string>michaels-imac.local.CECF75B7-75A4-4FC8-8B9B-1DFEDC31D3D9</string>
+	<string>CECF75B7-75A4-4FC8-8B9B-1DFEDC31D3D9</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
