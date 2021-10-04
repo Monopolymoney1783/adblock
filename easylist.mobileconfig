@@ -18,11 +18,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-			<key>ProxyPACFallbackAllowed</key>
 			<false/>
-			<key>ProxyPACURL</key>
-			<string>https://raw.githubusercontent.com/peteygao/adblock/master/proxy.pac</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
